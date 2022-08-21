@@ -1,4 +1,4 @@
 [build]
 base = "./"
 publish = "./src/html/"
-command = "npm install tailwindcss"
+command = "npm install tailwindcss && npm run tailinit"

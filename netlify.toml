@@ -1,4 +1,4 @@
 [build]
 base = "./"
-publish = "dist/index.html"
+publish = "dist/"
 command = "npm install tailwindcss"
